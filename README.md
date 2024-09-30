@@ -5,7 +5,7 @@
 ☕️ Drink Coffee then convert it to Code<br />
 🌚 **Dark Mode** | Light Mode<br />
 🧑‍💻Empowering AI Technologies to Secure Your World<br />
-✋️ Closed Source Code<br />
+⛔️Closed Source Code⛔️<br />
 
 
 # 💻 Tech Stack:
