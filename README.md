@@ -1,7 +1,7 @@
 # 💫 Bio:
-🇸🇬 Singapore
-☕️ Powered by coffee and passion, I convert caffeine into code
-✋️ Closed source code
+🇸🇬 Singapore<br />
+☕️ Powered by coffee and passion, I convert caffeine into code<br />
+✋️ Closed source code<br />
 
 
 # 💻 Tech Stack:
