@@ -1,10 +1,11 @@
-# 💫 About me:
-👋 Hi There!<br />
+# 👋 Hi There!:
 🇸🇬 Singapore<br />
+🎓B.InfTech' 21<br />
+🎓Dip.ElecEngTech' 23<br />
 ☕️ Drink Coffee then convert it to Code<br />
-✋️ Closed source code<br />
-🧑‍💻Empowering AI Technologies to Secure Your World<br />
 🌚 **Dark Mode** | Light Mode<br />
+🧑‍💻Empowering AI Technologies to Secure Your World<br />
+✋️ Closed Source Code<br />
 
 
 # 💻 Tech Stack:
